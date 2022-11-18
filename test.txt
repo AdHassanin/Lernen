@@ -1,0 +1,10 @@
+ Datentr„ger in Laufwerk C: ist Acer
+ Volumeseriennummer: 9C88-7232
+
+ Verzeichnis von C:\Users\ahmed\Desktop\Masterarebit\my Project
+
+18.11.2022  11:33    <DIR>          .
+18.11.2022  11:33    <DIR>          ..
+18.11.2022  11:33                 0 test.txt
+               1 Datei(en),              0 Bytes
+               2 Verzeichnis(se), 75.577.618.432 Bytes frei
